@@ -1,2 +1,2 @@
 # color-changer
-change colors
+Changes RGB values when you click a button
